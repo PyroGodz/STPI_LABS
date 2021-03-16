@@ -1,2 +1,0 @@
-# STPI_LABS
-JAVA
