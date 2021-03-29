@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/STPI_Lab02.iml" filepath="$PROJECT_DIR$/STPI_Lab02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/by.belstu.it.myadel/by.belstu.it.myadel.iml" filepath="$PROJECT_DIR$/by.belstu.it.myadel/by.belstu.it.myadel.iml" />
     </modules>
   </component>
 </project>
